@@ -58,10 +58,10 @@ Baseline models helped validate that models learned meaningful patterns
 
 💼 Business Impact
 
-Enabled more accurate demand forecasting, helping businesses plan inventory and reduce overstock or stockouts
-Identified seasonal trends and holiday effects, supporting better promotional and sales planning
-Provided data-driven insights through model comparison, improving decision-making for selecting forecasting strategies
-Demonstrated how machine learning models like XGBoost can outperform traditional methods in capturing complex patterns
+Enabled more accurate demand forecasting, helping businesses plan inventory and reduce overstock or stockouts.
+Identified seasonal trends and holiday effects, supporting better promotional and sales planning.
+Provided data-driven insights through model comparison, improving decision-making for selecting forecasting strategies.
+Demonstrated how machine learning models like XGBoost can outperform traditional methods in capturing complex patterns.
 
 🚀 Key Learnings
 Time-based splits are critical for forecasting tasks
